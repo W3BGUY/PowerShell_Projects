@@ -28,6 +28,7 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="checkRemoteServerHealth_NYPD.ps1" />
     <Compile Include="findErrorsInLast5Minutes.ps1" />
     <Compile Include="getServerDiskSpace.ps1" />
     <Compile Include="keyPress_ChromeTabRotate.ps1" />
